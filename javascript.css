@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Convergence&family=Montserrat:wght@100;200;300;500;600&family=Pacifico&family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,700&display=swap');
+* {
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+body{
+  font-family: "convergence" sans-serif;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2em;
+  background-color:#222830;
+}
+.num-container {
+  
+  
+}
+button {
+  
+  border-radius: 10px;
+  
+}
+header{
+  
+}
+.submit{
+  font: 1rem "proxima-nova", sans-serif;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid #C0C6CC;
+  background: #fff;
+  margin: 0;
+  width: 100%;
+  border-radius: 0.4rem;
+  font-style: italic;
+}
+
+/* .border-container{
+  border: solid;
+  height: 700px;
+  width: 100%;
+  margin:0 auto;
+  border-radius: 10px;
+  background-image: url(./assets/HD-wallpaper-black-and-green-desk-fan\,-futuristic\,-tech-.jpg)  ;
+  background-repeat:none ;
+  background-size:cover;
+} */
